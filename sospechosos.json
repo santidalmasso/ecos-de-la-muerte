@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Charlie Brown",
+    "ocupacion": "Desarrollador frontend",
+    "relacion": "Excompañero de trabajo de Alice Smith"
+  },
+  {
+    "nombre": "Diana Ross",
+    "ocupacion": "Desarrolladora backend",
+    "relacion": "Amiga cercana de Bob Johnson"
+  }
+]
